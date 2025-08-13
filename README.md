@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Eat.+Code.+Sleep.+Repeat.)](https://git.io/typing-svg)
+
 <h3 align="left">Languages Learned:
   <!-- C# -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/>
@@ -41,10 +43,3 @@
   <!-- Canva -->
     <img src="https://cdn.simpleicons.org/canva" alt="Canva logo" width="25" height="25"/>
 </h3>
-
-<h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeSaysWhat&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSaysWhat&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
