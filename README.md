@@ -1,56 +1,50 @@
 <h2 align="left">Hi 👋, I'm Regine Ann</h2>
 💻 Computer Science Student at Cavite State University - Silang Campus
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages Learned:</h3>
 <p align="left">
-  <!-- Blender -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
   <!-- C# -->
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <!-- C++ -->
+    <img src="https://cdn.simpleicons.org/cplusplus" alt="C++ logo" width="48" height="48">
   <!-- HTML 5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
   <!-- CSS 3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- Adobe Photoshop -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <!-- php -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <!-- SQLite -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
   <!-- React -->
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
+  <!-- Java -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <!-- MySQL -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
+</p>
+
+<h3 align="left">Application and Tools:</h3>
+<p align="left">
+  <!-- Adobe Photoshop -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <!-- Blender -->
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  <!-- Git -->
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <!-- Godot Engine -->
+    <img src="https://cdn.simpleicons.org/godotengine" alt="Godot Script (Godot Engine) logo" width="40" height="40"/>
+  <!-- Visual Studio Code -->
+    <img src="https://cdn.simpleicons.org/visualstudiocode" alt="Visual Studio Code logo" width="40" height="40"/>
+  <!-- Visual Studio -->
+    <img src="https://cdn.simpleicons.org/visualstudio" alt="Visual Studio logo" width="40" height="40"/>
+  <!-- Apache NetBeans -->
+    <img src="https://cdn.simpleicons.org/apachenetbeanside" alt="Apache NetBeans logo" width="40" height="40"/>
+  <!-- XAMPP -->
+    <img src="https://cdn.simpleicons.org/xampp" alt="XAMPP logo" width="40" height="40"/>
+  <!-- InkScape -->
+    <img src="https://cdn.simpleicons.org/inkscape" alt="Inkscape logo" width="40" height="40"/>
+  <!-- AutoCAD -->
+    <img src="https://cdn.simpleicons.org/autocad" alt="AutoCAD logo" width="40" height="40"/>
+  <!-- Canva -->
+    <img src="https://cdn.simpleicons.org/canva" alt="Canva logo" width="40" height="40"/>
+  
 </p>
