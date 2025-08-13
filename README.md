@@ -18,9 +18,7 @@
   <!-- Java -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <!-- MySQL -->
-    <img src="https://freebiesupply.com/logos/mysql-logo-2/" alt="MySQL logo" width="40" height="40"/>
-
-
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 <h3 align="left">Application and Tools:</h3>
@@ -47,5 +45,4 @@
     <img src="https://cdn.simpleicons.org/autocad" alt="AutoCAD logo" width="40" height="40"/>
   <!-- Canva -->
     <img src="https://cdn.simpleicons.org/canva" alt="Canva logo" width="40" height="40"/>
-  
 </p>
