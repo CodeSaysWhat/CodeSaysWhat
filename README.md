@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋, I'm Regine Ann</h2>
-💻 Computer Science Student at Cavite State University - Silang Campus
+<h1 align="left">CodeSaysWhat</h1>
+<h2 align="left">A curious fellow who is very eager to learn programming.</h2>
 
 <h3 align="left">Languages Learned:</h3>
 <p align="left">
