@@ -43,7 +43,7 @@
 </h3>
 
 <h3 align="left">My GitHub Stats:</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeSaysWhat&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSaysWhat&layout=compact&theme=tokyonight" alt="Top Languages" />
