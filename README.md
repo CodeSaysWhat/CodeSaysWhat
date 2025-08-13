@@ -32,10 +32,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <!-- Godot Engine -->
     <img src="https://cdn.simpleicons.org/godotengine" alt="Godot Script (Godot Engine) logo" width="40" height="40"/>
-  <!-- Visual Studio Code -->
-    <img src="https://cdn.simpleicons.org/visualstudiocode" alt="Visual Studio Code logo" width="40" height="40"/>
-  <!-- Visual Studio -->
-    <img src="https://cdn.simpleicons.org/visualstudio" alt="Visual Studio logo" width="40" height="40"/>
+  <!-- Visual Studio Code (VS Code) -->
+    <img src="https://cdn.simpleicons.org/visual-studio-code" alt="Visual Studio Code logo" width="40" height="40"/>
+  <!-- Visual Studio (Community/IDE) -->
+  <img src="https://cdn.simpleicons.org/visual-studio" alt="Visual Studio logo" width="40" height="40"/>
   <!-- Apache NetBeans -->
     <img src="https://cdn.simpleicons.org/apachenetbeanside" alt="Apache NetBeans logo" width="40" height="40"/>
   <!-- XAMPP -->
