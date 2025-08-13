@@ -26,7 +26,7 @@
 <h3 align="left">Application and Tools:</h3>
 <p align="left">
   <!-- Adobe Photoshop -->
-  <img src="https://images.dreamstime.com/vinnytsia-ukraine-april-adobe-photoshop-logo-vector-icon-isolated-white-background-215484951.jpg" alt="Adobe Photoshop logo (white background)" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <!-- Blender -->
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   <!-- Git -->
