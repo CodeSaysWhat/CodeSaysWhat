@@ -18,14 +18,15 @@
   <!-- Java -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <!-- MySQL -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://freebiesupply.com/logos/mysql-logo-2/" alt="MySQL logo" width="40" height="40"/>
+
 
 </p>
 
 <h3 align="left">Application and Tools:</h3>
 <p align="left">
   <!-- Adobe Photoshop -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://images.dreamstime.com/stock-illustration-adobe-photoshop-logo-vector-icon-isolated-white-background-215484951.jpg" alt="Adobe Photoshop logo" width="40" height="40"/>
   <!-- Blender -->
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   <!-- Git -->
