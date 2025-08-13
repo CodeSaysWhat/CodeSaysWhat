@@ -1,6 +1,3 @@
-<h1 align="left">CodeSaysWhat</h1>
-<h2 align="left">A curious fellow who is very eager to learn programming.</h2>
-
 <h3 align="left">Languages Learned:</h3>
 <p align="left">
   <!-- C# -->
