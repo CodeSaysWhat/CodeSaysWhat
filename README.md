@@ -33,9 +33,9 @@
   <!-- Godot Engine -->
     <img src="https://cdn.simpleicons.org/godotengine" alt="Godot Script (Godot Engine) logo" width="40" height="40"/>
   <!-- Visual Studio Code (VS Code) -->
-    <img src="https://cdn.simpleicons.org/visual-studio-code" alt="Visual Studio Code logo" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code logo" width="40" height="40"/>
   <!-- Visual Studio (Community/IDE) -->
-  <img src="https://cdn.simpleicons.org/visual-studio" alt="Visual Studio logo" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio 2022 logo" width="40" height="40"/>
   <!-- Apache NetBeans -->
     <img src="https://cdn.simpleicons.org/apachenetbeanside" alt="Apache NetBeans logo" width="40" height="40"/>
   <!-- XAMPP -->
