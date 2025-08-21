@@ -1,43 +1,50 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Eat.+Code.+Sleep.+Repeat." alt="Typing SVG">
-  </a>
-</p>
-
 <table>
   <tr>
-    <!-- Left Column -->
+    <!-- LEFT: Intro + rectangular badges -->
     <td width="50%" valign="top" align="center">
+      <hr>
+      <p align="center">
+        <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=520&lines=eat.+code.+sleep.+repeat.;runs.+works%3F+don%27t+touch%21;type.+delete.+type.+delete.+type.&color=00FF00&background=000000" alt="Typing SVG">
+        </a>
+      </p>
+      <hr>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSaysWhat&layout=compact&title_color=FFA500&text_color=FFA500&bg_color=000000&hide_border=true" alt="Top Langs">
       <br>
-      <img src="https://streak-stats.demolab.com?user=CodeSaysWhat&theme=radical" alt="GitHub Streak"><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=CodeSaysWhat&show_icons=true&theme=radical" alt="GitHub Stats"><br><br>
+      <h3>👩‍💻 Languages Learned 👩‍💻</h3>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      </p>
+      <h3>🛠️ Applications & Tools 🛠️</h3>
+      <p>
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+        <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+        <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+        <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape">
+        <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD">
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+        <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
+      </p>
     </td>
-    <!-- Right Column -->
-    <td width="30%" valign="top" align="left">
+    <!-- RIGHT: Stats (hacker green on black) -->
+    <td width="50%" valign="top" align="center">
+      <img src="https://streak-stats.demolab.com?user=CodeSaysWhat&background=000000&ring=FFA500&fire=FFA500&currStreakNum=FFA500&sideNums=FFA500&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFA500&stroke=FFA500&hide_border=true" alt="GitHub Streak">
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSaysWhat&layout=compact&theme=radical" alt="Top Langs">
-      <h3>👩‍💻 Languages Learned</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#">
-      <img src="https://cdn.simpleicons.org/cplusplus" width="30" height="30" alt="C++">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30" alt="HTML5">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" alt="CSS3">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" alt="React">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" alt="MySQL">
-      <br>
-      <h3>🛠️ Applications & Tools</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" height="30" alt="Photoshop">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="30" height="30" alt="Blender">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30" alt="Git">
-      <img src="https://cdn.simpleicons.org/godotengine" width="30" height="30" alt="Godot">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="30" height="30" alt="VS Code">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="30" height="30" alt="Visual Studio">
-      <img src="https://cdn.simpleicons.org/apachenetbeanside" width="30" height="30" alt="NetBeans">
-      <img src="https://cdn.simpleicons.org/xampp" width="30" height="30" alt="XAMPP">
-      <img src="https://cdn.simpleicons.org/inkscape" width="30" height="30" alt="Inkscape"><br>
-      <img src="https://cdn.simpleicons.org/autocad" width="30" height="30" alt="AutoCAD">
-      <img src="https://cdn.simpleicons.org/canva" width="30" height="30" alt="Canva">
+      <img src="https://github-readme-stats.vercel.app/api?username=CodeSaysWhat&show_icons=true&title_color=FFA500&text_color=FFA500&icon_color=FFA500&bg_color=000000&hide_border=true" alt="GitHub Stats">
+      <br><br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSaysWhat&bg_color=000000&color=FFA500&line=FFA500&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
     </td>
   </tr>
 </table>
