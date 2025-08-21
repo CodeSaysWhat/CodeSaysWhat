@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <tr>
     <!-- LEFT: Intro + rectangular badges -->
     <td width="50%" valign="top" align="center">
@@ -38,8 +38,9 @@
         <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
       </p>
     </td>
-    <!-- RIGHT: Stats (hacker green on black) -->
+    <!-- RIGHT: Stats -->
     <td width="50%" valign="top" align="center">
+      <br>
       <img src="https://streak-stats.demolab.com?user=CodeSaysWhat&background=000000&ring=FFA500&fire=FFA500&currStreakNum=FFA500&sideNums=FFA500&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFA500&stroke=FFA500&hide_border=true" alt="GitHub Streak">
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=CodeSaysWhat&show_icons=true&title_color=FFA500&text_color=FFA500&icon_color=FFA500&bg_color=000000&hide_border=true" alt="GitHub Stats">
