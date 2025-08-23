@@ -9,7 +9,7 @@
         </a>
       </p>
       <hr>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSaysWhat&layout=compact&title_color=FFA500&text_color=FFA500&bg_color=000000&hide_border=true" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSaysWhat&layout=compact&title_color=FFA500&text_color=FFA500&bg_color=000000&hide_border=true&cache_seconds=1800" alt="Top Langs">
       <h3>👩‍💻 Languages Learned 👩‍💻</h3>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
