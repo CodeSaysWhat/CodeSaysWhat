@@ -5,11 +5,11 @@
       <hr>
       <p align="center">
         <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Hello%21+I%27m+a+Junior+Developer.;Welcome+to+my+GitHub+profile%21;Contact+me%21+Let%27s+work+together%21&color=00FF00&background=000000" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Hello%21+I%27m+a+Junior+Developer.;Welcome+to+my+GitHub+profile%21;Contact+me%21+Let%27s+work+together%21&color=00FF00&background=000000" alt="Typing SVG">
         </a>
       </p>
       <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSaysWhat&count_private=true&layout=compact&title_color=FFA500&text_color=FFA500&bg_color=000000&hide_border=true&cache_seconds=1800" alt="Top Langs">
+      <img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs/?username=CodeSaysWhat&count_private=true&layout=compact&title_color=FFA500&text_color=FFA500&bg_color=000000&hide_border=true&cache_seconds=1800&card_width=500" />
       <h3>👩‍💻 Languages Learned 👩‍💻</h3>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
