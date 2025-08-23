@@ -44,7 +44,7 @@
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=CodeSaysWhat&show_icons=true&title_color=FFA500&text_color=FFA500&icon_color=FFA500&bg_color=000000&hide_border=true" alt="GitHub Stats">
       <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSaysWhat&bg_color=000000&color=FFA500&line=FFA500&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSaysWhat&bg_color=000000&color=FFA500&line=FFA500&point=FFFFFF&area=true&hide_border=true&height=600" alt="Activity Graph">
     </td>
   </tr>
 </table>
