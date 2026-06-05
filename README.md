@@ -15,12 +15,8 @@
 <b>Programming Languages</b>
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot" height="40" />
 
-<br>
-
 <b>Coding Tools</b><br>
 <img src="https://skillicons.dev/icons?i=visualstudio,godot" height="40" />
-
-<br>
 
 <img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true" />
 
