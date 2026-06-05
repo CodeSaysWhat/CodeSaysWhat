@@ -13,13 +13,13 @@
 
 #### Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot" height="40" />
 </p>
 
 #### Coding Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=visualstudio,godot" height="40" />
 </p>
 
