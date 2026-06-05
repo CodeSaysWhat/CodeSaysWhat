@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+%26+Game+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&color=7AA2F7&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+%26+Game+Developer" />
 
 </div>
 
@@ -14,13 +14,13 @@
 #### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot" height="40" />
 </p>
 
 #### Coding Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=visualstudio,godot" />
+<img src="https://skillicons.dev/icons?i=visualstudio,godot" height="40" />
 </p>
 
 <img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -36,7 +36,7 @@
 <br>
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSaysWhat&bg_color=1A1B27&color=F59E0B&line=F59E0B&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSaysWhat&bg_color=1A1B27&color=7AA2F7&line=7AA2F7&point=BB9AF7&area=true&area_color=7AA2F7&hide_border=true"/>
 
 </td>
 </tr>
