@@ -1,10 +1,15 @@
+<!-- Hero Section -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+%26+Game+Developer" />
+
+</div>
+
+<br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+%26+Game+Developer" />
-</p>
 
 ### Programming Languages
 
