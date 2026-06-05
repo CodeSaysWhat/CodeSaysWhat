@@ -11,13 +11,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### Programming Languages
+#### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot" />
 </p>
 
-### Coding Tools
+#### Coding Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=visualstudio,godot" />
