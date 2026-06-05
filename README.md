@@ -11,19 +11,19 @@
 <tr>
 <td width="50%" valign="top">
 
-#### Programming Languages
-
+<h3 align="center">Programming Languages</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot" height="40" />
 </p>
 
-#### Coding Tools
-
+<h3 align="center">Coding Tools</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=visualstudio,godot" height="40" />
 </p>
 
+<p align="center">
 <img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 </td>
 
