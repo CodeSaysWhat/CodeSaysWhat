@@ -15,9 +15,9 @@
 <b>Programming Languages</b>
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot" height="40" />
 
-<br><br>
+<br>
 
-<b>Coding Tools</b>
+<b>Coding Tools</b><br>
 <img src="https://skillicons.dev/icons?i=visualstudio,godot" height="40" />
 
 <br>
