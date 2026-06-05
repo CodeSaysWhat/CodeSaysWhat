@@ -23,15 +23,15 @@
 <img src="https://skillicons.dev/icons?i=visualstudio,godot" />
 </p>
 
+<br>
+
+<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </td>
 
 <td width="50%" valign="top">
 
 <img src="https://streak-stats.demolab.com?user=CodeSaysWhat&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
