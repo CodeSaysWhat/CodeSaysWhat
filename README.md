@@ -6,9 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+%26+Game+Developer" />
 </p>
 
-<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
 ### Programming Languages
 
 <p>
@@ -29,7 +26,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeSaysWhat&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
