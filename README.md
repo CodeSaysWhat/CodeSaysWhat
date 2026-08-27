@@ -23,10 +23,14 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github" height="40" />
 
+<br>
+
 </td>
 
 <!-- Right Column -->
 <td width="60%" align="center" valign="top">
+  
+<br>
 
 <img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true" />
 
