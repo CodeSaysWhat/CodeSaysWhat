@@ -1,49 +1,42 @@
-<!-- ================= HERO ================= -->
-
+<!-- Hero Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=900&center=true&vCenter=true&width=700&color=7AA2F7&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+Developer;Game+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=25&pause=1000&center=true&vCenter=true&width=650&color=7AA2F7&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+Developer;Game+Developer" />
 
-<br>
-
-<sub>▸ currently building, learning & experimenting</sub>
-
-</div>
-
-<br><br>
-
-<!-- ================= SKILLS ================= -->
-
-<div align="center">
-
-<h3>╔══ TECH STACK ══╗</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot&theme=dark" height="45" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="45" />
+<h1>Building things • Breaking things • Learning things</h1>
 
 </div>
 
 <br>
-
-<!-- ================= STATS ================= -->
 
 <table align="center">
 <tr>
 
-<td width="50%" align="center">
+<!-- Left Column -->
+<td width="40%" align="center" valign="top">
 
-<h3>▸ LANGUAGES</h3>
+<h3>⚙ LANGUAGES & TECHNOLOGIES</h3>
 
-<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot&theme=dark" height="42" />
+
+<br><br>
+
+<h3>⌘ DEVELOPMENT TOOLS</h3>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="42" />
+
+<br><br>
 
 </td>
 
-<td width="50%" align="center">
+<!-- Right Column -->
+<td width="60%" align="center" valign="top">
 
-<h3>▸ ACTIVITY</h3>
+<br>
+
+<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
 
 <img src="https://github-readme-streak-stats-q28uza72v-codesayswhats-projects.vercel.app/graph?username=CodeSaysWhat&theme=tokyonight&hide_border=true&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" />
 
@@ -51,11 +44,3 @@
 
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-<sub>「 CODE • CREATE • REPEAT 」</sub>
-
-</div>
