@@ -11,7 +11,7 @@
 <tr>
 
 <!-- Left Column -->
-<td width="40%" align="center" valign="top">
+<td width="45%" align="center" valign="top">
 
 <h3>⚙ LANGUAGES & TECHNOLOGIES ⚙</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot&theme=dark" height="42" />
@@ -26,7 +26,7 @@
 </td>
 
 <!-- Right Column -->
-<td width="60%" align="center" valign="top">
+<td width="55%" align="center" valign="top">
 
 <br>
 
