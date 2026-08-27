@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=25&pause=1000&center=true&vCenter=true&width=650&color=68bb50&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+Developer;Game+Developer" />
 
-<h4>Building things • Breaking things • Learning things</h4>
+<h4>Building code, one block at a time</h4>
 </div>
 <br>
 
