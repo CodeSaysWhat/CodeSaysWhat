@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=25&pause=1000&center=true&vCenter=true&width=650&color=7AA2F7&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+Developer;Game+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=25&pause=1000&center=true&vCenter=true&width=650&color=68bb50&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+Developer;Game+Developer" />
 
 <h4>Building things • Breaking things • Learning things</h4>
 </div>
@@ -30,11 +30,11 @@
 
 <br>
 
-<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=light&hide_border=true" />
+<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=merko&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats-q28uza72v-codesayswhats-projects.vercel.app/graph?username=CodeSaysWhat&theme=light&hide_border=true&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" />
+<img src="https://github-readme-streak-stats-q28uza72v-codesayswhats-projects.vercel.app/graph?username=CodeSaysWhat&theme=merko&hide_border=true&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" />
 
 </td>
 
