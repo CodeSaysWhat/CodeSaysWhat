@@ -3,11 +3,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=25&pause=1000&center=true&vCenter=true&width=650&color=7AA2F7&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+Developer;Game+Developer" />
 
-<h4 style="font-family: Monocraft;">Building things • Breaking things • Learning things</h4>
-
-<br>
+<h4>Building things • Breaking things • Learning things</h4>
 </div>
-
 <br>
 
 <table align="center">
@@ -16,13 +13,13 @@
 <!-- Left Column -->
 <td width="40%" align="center" valign="top">
 
-<h3>⚙ LANGUAGES & TECHNOLOGIES</h3>
+<h3>⚙ LANGUAGES & TECHNOLOGIES ⚙</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot&theme=dark" height="42" />
 
 <br><br>
 
-<h3>⌘ DEVELOPMENT TOOLS</h3>
+<h3>⌘ DEVELOPMENT TOOLS ⌘</h3>
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="42" />
 
