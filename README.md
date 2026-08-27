@@ -32,11 +32,7 @@
 <!-- Right Column -->
 <td width="60%" align="center" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=CodeSaysWhat&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSaysWhat&bg_color=1A1B27&color=7AA2F7&line=7AA2F7&point=BB9AF7&area=true&area_color=7AA2F7&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSaysWhat&theme=tokyo-night&hide_border=true" />
 
 </td>
 
