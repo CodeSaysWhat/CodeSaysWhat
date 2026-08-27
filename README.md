@@ -23,16 +23,16 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github" height="40" />
 
-<br><br>
-
-<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true" />
-
 </td>
 
 <!-- Right Column -->
 <td width="60%" align="center" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSaysWhat&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats-q28uza72v-codesayswhats-projects.vercel.app/graph?username=CodeSaysWhat&theme=tokyo-night&hide_border=true" />
 
 </td>
 
