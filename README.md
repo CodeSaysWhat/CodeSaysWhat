@@ -3,8 +3,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=25&pause=1000&center=true&vCenter=true&width=650&color=7AA2F7&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+Developer;Game+Developer" />
 
-<h1>Building things • Breaking things • Learning things</h1>
+<h4 style="font-family: Monocraft;">Building things • Breaking things • Learning things</h4>
 
+<br>
 </div>
 
 <br>
