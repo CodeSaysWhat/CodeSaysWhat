@@ -17,7 +17,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot" height="40" />
 
-<br><br>
+<br>
 
 <h3>Development Tools</h3>
 
