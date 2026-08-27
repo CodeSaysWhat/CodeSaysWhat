@@ -1,7 +1,11 @@
 <!-- Hero Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&color=7AA2F7&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+Developer;Game+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=25&pause=1000&center=true&vCenter=true&width=650&color=7AA2F7&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+Developer;Game+Developer" />
+
+<br>
+
+<sub>Building things • Breaking things • Learning things</sub>
 
 </div>
 
@@ -13,30 +17,28 @@
 <!-- Left Column -->
 <td width="40%" align="center" valign="top">
 
-<h3>Languages & Technologies</h3>
+<h3>⚙ LANGUAGES & TECHNOLOGIES</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot" height="40" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot&theme=dark" height="42" />
 
-<br>
+<br><br>
 
-<h3>Development Tools</h3>
+<h3>⌘ DEVELOPMENT TOOLS</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github" height="40" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="42" />
 
-<br>
+<br><br>
 
 </td>
 
 <!-- Right Column -->
 <td width="60%" align="center" valign="top">
-  
-<br>
 
 <img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats-q28uza72v-codesayswhats-projects.vercel.app/graph?username=CodeSaysWhat&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-streak-stats-q28uza72v-codesayswhats-projects.vercel.app/graph?username=CodeSaysWhat&theme=tokyonight&hide_border=true&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" />
 
 </td>
 
