@@ -14,13 +14,11 @@
 <td width="40%" align="center" valign="top">
 
 <h3>⚙ LANGUAGES & TECHNOLOGIES ⚙</h3>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot&theme=dark" height="42" />
 
-<br><br>
+<br>
 
 <h3>⌘ DEVELOPMENT TOOLS ⌘</h3>
-
 <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="42" />
 
 <br><br>
@@ -32,11 +30,11 @@
 
 <br>
 
-<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=light&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats-q28uza72v-codesayswhats-projects.vercel.app/graph?username=CodeSaysWhat&theme=tokyonight&hide_border=true&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" />
+<img src="https://github-readme-streak-stats-q28uza72v-codesayswhats-projects.vercel.app/graph?username=CodeSaysWhat&theme=light&hide_border=true&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" />
 
 </td>
 
