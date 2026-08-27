@@ -7,7 +7,7 @@
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
 <!-- Left Column -->
