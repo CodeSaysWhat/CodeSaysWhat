@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&color=7AA2F7&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+%26+Game+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&color=7AA2F7&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Website+Developer;Game" />Developer
 
 </div>
 
