@@ -22,7 +22,7 @@
 
   <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot&theme=dark" height="42" />
 
-  <br><br>
+  <br>
 
   <h3>⌘ DEVELOPMENT TOOLS</h3>
 
