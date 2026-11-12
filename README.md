@@ -28,7 +28,7 @@
 
   <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="42" />
 
-  <br>
+  <br><br>
 
 </td>
 
