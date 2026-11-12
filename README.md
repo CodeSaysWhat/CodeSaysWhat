@@ -1,38 +1,40 @@
 <!-- Hero Section -->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=25&pause=1000&center=true&vCenter=true&width=650&color=68bb50&lines=Hello%2C+I'm+CodeSaysWhat;Junior+Developer;Web+Developer;Game+Developer" />
 
 <h4>Building code, one block at a time</h4>
+
 </div>
+
 <br>
 
-<table align="center">
+<!-- Skills and Statistics -->
+
+<table align="center" width="100%">
 <tr>
-
 <!-- Left Column -->
-<td width="45%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3>⚙ LANGUAGES & TECHNOLOGIES ⚙</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot&theme=dark" height="42" />
 
-<br>
+  <h3>⚙ LANGUAGES & TECHNOLOGIES</h3>
 
-<h3>⌘ DEVELOPMENT TOOLS ⌘</h3>
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="42" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,godot&theme=dark" height="42" />
 
-<br><br>
+  <br><br>
+
+  <h3>⌘ DEVELOPMENT TOOLS</h3>
+
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="42" />
 
 </td>
 
 <!-- Right Column -->
-<td width="55%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<br>
+  <h3>📊 TOP LANGUAGES</h3>
 
-<img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=merko&hide_border=true" />
+  <img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=merko&hide_border=true" />
 
 </td>
-
-</tr>
-</table>
