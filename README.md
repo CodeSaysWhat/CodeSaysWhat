@@ -35,8 +35,6 @@
 <!-- Right Column -->
 <td width="50%" align="center" valign="middle">
 
-<br>
-
   <img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=merko&hide_border=true" />
 
 </td>
