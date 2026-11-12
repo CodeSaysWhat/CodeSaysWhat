@@ -28,12 +28,14 @@
 
   <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="42" />
 
+  <br>
+
 </td>
 
 <!-- Right Column -->
 <td width="50%" align="center" valign="middle">
 
-  <h3>📊 TOP LANGUAGES</h3>
+<br>
 
   <img src="https://github-readme-language-stats-sand.vercel.app/api/top-langs?username=CodeSaysWhat&layout=compact&theme=merko&hide_border=true" />
 
